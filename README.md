@@ -41,7 +41,7 @@ script.js           # JavaScript logic for quiz functionality
 
 1. Clone the repository
 
-git clone https://github.com/your-username/interactive-quiz-app.git
+git clone https://github.com/sathyabama-coder/Interactive-quiz-app.git
 
 
 2. Open the project folder
